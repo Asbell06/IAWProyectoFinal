@@ -12,8 +12,7 @@ input[type=text], input[type=password] {
   margin: 8px 0;
   display: inline-block;
   border: 1px solid #ccc;
-  box-sizing: border-box;
-  
+  box-sizing: border-box; 
 }
 
 button {
