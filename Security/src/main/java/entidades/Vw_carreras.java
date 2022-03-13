@@ -1,6 +1,7 @@
 package entidades;
 
-public class Vw_carrera {
+public class Vw_carreras {
+	
 	private int id_carrera;
 	private String nombre_carrera;
 	private int id_departamento;

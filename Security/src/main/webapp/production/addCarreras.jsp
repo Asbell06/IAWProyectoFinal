@@ -92,7 +92,7 @@
                                             <div class="col-md-6 col-sm-6">
 <!--                                            <input class="form-control" data-validate-length-range="6" data-validate-words="2" name="name" placeholder="ex. John f. Kennedy" required="required" /> -->
 												<%
-							                      	ArrayList<Tbl_user> listaUsuario = new ArrayList<Tbl_user>();
+							                      	ArrayList<Tbl_departamento> listaDepartamento = new ArrayList<Tbl_departamento>();
 							                      	Dt_usuario dtu = new Dt_usuario();
 							                      	listaUsuario = dtu.listaUserActivos();
 								                 %>
